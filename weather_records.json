@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "date": "1200-12-12",
+        "temperature": 12.0,
+        "description": "пр",
+        "precipitation": "Да"
+    },
+    {
+        "id": 2,
+        "date": "2260-04-03",
+        "temperature": 1.0,
+        "description": "ак",
+        "precipitation": "Нет"
+    },
+    {
+        "id": 3,
+        "date": "1945-05-06",
+        "temperature": 56.0,
+        "description": "Пошла жара",
+        "precipitation": "Да"
+    }
+]
